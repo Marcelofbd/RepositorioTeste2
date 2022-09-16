@@ -65,6 +65,14 @@ Este é um projeto apresentado pelos alunos do 1º Semestre do Curso do Banco de
 
 ## Backlog das Sprints <br id=d>
 
+| Sprint | Histórico |
+|:--:|:-------------------------------------------------:|
+| 01 | [ver relatório](https://github.com/Marcelofbd/RepositorioTeste2/blob/Sprint_1/README.md) |
+| 02 | [ver relatório](https://github.com/Marcelofbd/RepositorioTeste2/blob/Sprint_1/README.md) |
+| 03 | [ver relatório](https://github.com/Marcelofbd/RepositorioTeste2/blob/Sprint_1/README.md) |
+| 04 | [ver relatório](https://github.com/Marcelofbd/RepositorioTeste2/blob/Sprint_1/README.md) |
+
+<!--
 <h3>Backlog da Sprint 1</h3>
     
 | Tópico | User Storie                                     | Tarefas                                   |
@@ -77,7 +85,6 @@ Este é um projeto apresentado pelos alunos do 1º Semestre do Curso do Banco de
 
 <br/>
 
-<!--
 <h3>Backlog da Sprint 2</h3>
 
 | Tópico | User Storie | Tarefas |
