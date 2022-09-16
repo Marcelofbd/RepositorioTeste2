@@ -18,7 +18,6 @@ Este é um projeto apresentado pelos alunos do 1º Semestre do Curso do Banco de
 * [Datas do Projeto](#b)
 * [Backlog do Produto](#c)
 * [Backlog das Sprints](#d)
-* [Gráficos](#e)
 * [Aplicação](#f)
 * [Equipe](#g)
 
@@ -122,13 +121,14 @@ Este é um projeto apresentado pelos alunos do 1º Semestre do Curso do Banco de
 <br/>
 -->
 
+<!--
+
 ## Gráficos Burndown <br id=e>
 
 <h3>Sprint 1</h3>
 <p width="100%">
     <img width="50%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFye2Cy5ZKk4ITaR4jn07u8yRFFHz-suO6wadgh4gzXuv3hieMPRE2ykFy5kYuu7ws54l7ouCKkusP/pubchart?oid=2089711791&format=image"> </p>
 
-<!--
 
 <h3>Sprint 2</h3>
 
